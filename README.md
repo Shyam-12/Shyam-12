@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @neo-17(Shyam Prasad)
 
-
-
-- 👀 I’m interested in open-source and web development, Machine Learning, A.I, Software Development etc.
-- 🌱 I’m currently learning DSA and mastering my web-development skills.
-- 💞️ I’m looking to collaborate on anything that help me learn about open-source and about how things work on these platforms. I want to be a good programmer and grow my skills and learn new things.
-- 📫 You can reach me on my email shyamprasad1248@gmail.com or pmayhs17@gmail.com or my twitter handle is @Shy_am12.
+- 👀 I’m a backend developer working towards becoming a better Full-Stack Blockchain Developer.
+- 🌱 I’m working on mastering the skills I have and acquire new ones.
+- 💞️ I'm passionate about always being kind to others and giving back more than what I receive, let's remember to help each other.
+- 📫 Please reach out to me at shyamprasad1248@gmail.com, my twitter handle is @Shy_am12 and linkedIn is @shyam-prasad-17.
 
 <!---
 Shyam-12/Shyam-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
